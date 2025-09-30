@@ -1,7 +1,7 @@
 ---
 title: Archive
 layout: default
-description: "「我干了什么 究竟拿了时间换了什么」"
+description: "Descripción archive"
 header-img: "img/bg-little-universe.jpg"
 ---
 
@@ -19,7 +19,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
 			<!-- Tags (as filter) -->
 			<div id='tag_cloud' class="tags tags-sup js-tags">
 				<a class="tag-button--all" data-encode="">
-					Show All
+					Mostrar Todo
 					<sup>{{site.posts.size}}</sup>
 				</a>
 
@@ -54,7 +54,7 @@ https://github.com/kitian616/jekyll-TeXt-theme
 				{%- endif -%}
 				{%- endfor -%}
 
-				{% comment %} group by year {% endcomment %}
+				{% comment %} por año {% endcomment %}
 				{%- assign _currentdate = _article.date | date: '%Y' -%}
 				{%- if _currentdate != _date -%}
 				{%- unless forloop.first -%}</section>{%- endunless -%}

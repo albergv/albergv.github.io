@@ -1,8 +1,4 @@
----
-layout: page
-title: Sobre el blog
-permalink: /about/
----
+
 
 He creado este blog para informar sobre las posibles novedades literarias que vaya publicando. 
 

@@ -21,6 +21,12 @@ telegram_username: aquellosdias
 #facebook_username:  huxpro
 linkedin_username:  alberto-gustavo-colomo-nieto-6636592b0
 
+#Comments section
+
+comment-read: https://docs.google.com/spreadsheets/d/1Wkjpuiqa0egUKmjOS7h8rSbEeCu_9u6h2-8YeVVPNgk
+comment-post: https://docs.google.com/forms/d/e/1FAIpQLSfYpPlEQXxn8_4A50UQX8UFTC_7J3LHq2r6y3MKoIrFXva3QQ
+comment-post-fields: [entry.1915120975, entry.1996282540, entry.298122448]
+
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge

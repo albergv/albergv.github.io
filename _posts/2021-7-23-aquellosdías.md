@@ -11,7 +11,7 @@ Quiero comunicar, que allí no se venderá el libro, pero haré una pequeña int
 
 Aquí dejo el enlace para la compra del libro, está disponible tanto en formato físico como en e-book.
 
-![Portada del libro](https://raw.githubusercontent.com/albergv/albergv.github.io/master/images/Portada-ebook-(amazon).jpg "Portada del libro")
+![Portada del libro](https://raw.githubusercontent.com/albergv/albergv.github.io/master/img/Portada-ebook-(amazon).jpg "Portada del libro")
 
 [Enlace a la página de venta](https://www.amazon.es/dp/B098LJD35D)
 

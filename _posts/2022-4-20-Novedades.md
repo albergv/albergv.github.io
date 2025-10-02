@@ -1,6 +1,12 @@
 ---
 layout: post
-title: Novedades día del libro
+title: "Novedades día del libro"
+date: 2022-4-20
+author: "Alberto"
+tags:
+      - Rebajas
+      - Amazon
+      - Telegram
 ---
 
 

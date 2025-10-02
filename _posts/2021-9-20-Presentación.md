@@ -1,6 +1,14 @@
 ---
 layout: post
 tittle: Presentación y firma de ejemplares
+date:       2021-09-20
+author:     "Alberto"
+catalog:    true
+tags:
+    - Presentación
+    - Aquellos días fuera del nido
+    - Biblioteca
+    
 ---
 
 Buenos días, me complace anunciar que me he enterado de que en la biblioteca Juan Pablo Forner de Mérida han decidido organizar en octubre un evento denominado "El mes literario".

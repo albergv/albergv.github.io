@@ -1,14 +1,17 @@
 
 
-He creado este blog para informar sobre las posibles novedades literarias que vaya publicando. 
-
-He estado buscando distintas formas de hacerlo y esta me ha parecido la más adecuada, espero que sea de vuestro agrado.
+Había creado este blog para informar sobre las posibles novedades literarias que fuera publicando, quizás a partir de ahora además de eso haga publicaciones sobre otras cosas. Espero que sea de vuestro agrado.
 
 
 ### Sobre el autor
 
-Para saber más sobre mí recomiendo visitar [esta página.](https://www.amazon.es/~/e/B09BB4R593)
+- Para saber más sobre mí como autor literario recomiendo visitar [esta página.](https://www.amazon.es/~/e/B09BB4R593)
+- 
+- Para saber más de mí profesionalmente [esta otra. ](https://www.linkedin.com/in/alberto-gustavo-colomo-nieto-6636592b0)
 
 ### Contáctame...
 
 Escribe un comentario en cualquiera de las entradas que vaya publicando.
+
+Envíame un mensaje a través de Linkedin.
+

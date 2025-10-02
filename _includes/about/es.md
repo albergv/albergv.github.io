@@ -13,5 +13,5 @@ Había creado este blog para informar sobre las posibles novedades literarias qu
 
 Escribe un comentario en cualquiera de las entradas que vaya publicando.
 
-Envíame un mensaje a través de Linkedin.
+Envíame un mensaje a través de LinkedIn.
 

@@ -1,6 +1,13 @@
 ---
 layout: post
 title: Sobre "Aquellos días fuera del nido"
+date:       2021-7-23
+author:     "Alberto"
+catalog:    true
+tags:
+    - Aquellos días fuera del nido
+    - Biblioteca
+    - Amazon
 ---
 
 Hola, quiero hablar un poco de la novela que he escrito más formalmente, para ello he creado esta entrada...

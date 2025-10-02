@@ -1,6 +1,12 @@
 ---
 layout: post
 title: ¡Bienvenid@!
+date:       2021-07-16
+author:     "Alberto"
+catalog:    true
+tags:
+    - Blog
+    - Primer post
 ---
 
 Esta es mi primera entrada del blog, es posible que cambie algunas cosas de vez en cuando; supongo, que aún me queda mucho por aprender... En cualquier caso, también publicaré aquí algunos poemas y/o relatos cortos si lo veo oportuno...

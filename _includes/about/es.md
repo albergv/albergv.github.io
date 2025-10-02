@@ -6,7 +6,7 @@ Había creado este blog para informar sobre las posibles novedades literarias qu
 ### Sobre el autor
 
 - Para saber más sobre mí como autor literario recomiendo visitar [esta página.](https://www.amazon.es/~/e/B09BB4R593)
-- 
+  
 - Para saber más de mí profesionalmente [esta otra. ](https://www.linkedin.com/in/alberto-gustavo-colomo-nieto-6636592b0)
 
 ### Contáctame...

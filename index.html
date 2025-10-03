@@ -17,13 +17,15 @@ description: "Descripción index"
         <div class="post-content-preview">
             {% if post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:300 }}
+            {% if post.lang == 'es' %}
+                {{ post.content | strip_html | truncate:300 }}
             {% else %}
                 {{ post.content | strip_html | truncate:200 }}
             {% endif %}
         </div>
     </a>
     <p class="post-meta">
-        Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%-d / %b / %Y" }}
     </p>
 </div>
 <hr>

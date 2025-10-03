@@ -17,8 +17,6 @@ description: "Descripción index"
         <div class="post-content-preview">
             {% if post.lang == 'en' %}
                 {{ post.content | strip_html | truncate:300 }}
-   <!--     {% if post.lang == 'es' %}
-                {{ post.content | strip_html | truncate:300 }}   -->
             {% else %}
                 {{ post.content | strip_html | truncate:200 }}
             {% endif %}

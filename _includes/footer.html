@@ -246,14 +246,14 @@
             $zh.style.display = "none";
             $zh.classList.remove("active");
             // default to zh-cn
-        } elseif (lang == "zh") {
+        } if (lang == "zh") {
             $select.selectedIndex = 0;
             $zh.style.display = "block";
             $zh.classList.add("active");
             $en.style.display = "none";
             $en.classList.remove("active");
             // Spanish
-        } elseif (lang == "es") {
+        } if (lang == "es") {
             $select.selectedIndex = 2;
             $en.style.display = "block";
             $en.classList.add("active");
@@ -267,9 +267,9 @@
     function onLanChange(index) {
         if (index == 0) {
             lang = "zh"
-        } elseif (index == 1) {
+        } if (index == 1) {
             lang = "en"
-        } elseif (index == 2) {
+        } if (index == 2) {
             lang = "es"
         }
         setLang(lang)

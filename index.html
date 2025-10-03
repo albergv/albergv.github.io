@@ -23,7 +23,7 @@ description: "Descripción index"
         </div>
     </a>
     <p class="post-meta">
-        Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        Escrito por {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} el {{ post.date | date: "%-d/%-m/%Y" }}
     </p>
 </div>
 <hr>

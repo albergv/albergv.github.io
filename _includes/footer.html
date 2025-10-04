@@ -248,7 +248,7 @@
             $es.style.display = "none";
             $es.classList.remove("active");
             // default to zh-cn
-        } if (lang == "zh") {
+        } else if (lang == "zh") {
             $select.selectedIndex = 0;
             $zh.style.display = "block";
             $zh.classList.add("active");
@@ -258,7 +258,7 @@
             $es.classList.remove("active");
             
             // Spanish
-        } if (lang == "es") {
+        } else if (lang == "es") {
             $select.selectedIndex = 2;
             $es.style.display = "block";
             $es.classList.add("active");
@@ -274,9 +274,9 @@
     function onLanChange(index) {
         if (index == 0) {
             lang = "zh"
-        } if (index == 1) {
+        } else if (index == 1) {
             lang = "en"
-        } if (index == 2) {
+        } else if (index == 2) {
             lang = "es"
         }
         setLang(lang)

@@ -1,4 +1,22 @@
-This is the new English version.
+<!-- This is the new English version. -->
+
+### Intro
+
+I had created this blog to share news about literature updates that I publish, moreover now maybe I post about other things. I hope you enjoy it.
+
+
+### About Author
+
+- To know more about me like author/writer I recommend to visit [this page.](https://www.amazon.es/~/e/B09BB4R593)
+
+- To know more about me about job/proffesional [this one. ](https://www.linkedin.com/in/alberto-gustavo-colomo-nieto-6636592b0)
+  
+
+### Contact me
+
+Write me a comment in whatever post that I published.
+
+Send me a message on LinkedIn.
 
 <!-- Hey, I am Alberto Colomo. I worked on...
 

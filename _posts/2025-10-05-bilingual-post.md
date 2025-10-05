@@ -9,8 +9,6 @@ tags:
     - Bilingual
 ---
 
-{% include multilingual-sel.html %}
-
 <!-- Chinese Version -->
 <div class="zh post-container">
     {% capture bilingual-post_zh %}{% include example/bilingual-post-zh.md %}{% endcapture %}

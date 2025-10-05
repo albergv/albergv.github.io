@@ -21,12 +21,6 @@ multilingual: true
     {{ about_en | markdownify }}
 </div>
 
-<!-- Spanish Version -->
-<div class="es post-container">
-    {% capture about_es %}{% include about/es.md %}{% endcapture %}
-    {{ about_es | markdownify }}
-</div>
-
 
 {% if site.disqus_username %}
 <!-- disqus 评论框 start -->

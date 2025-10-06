@@ -3,6 +3,7 @@ layout: post
 tittle: Presentación y firma de ejemplares
 date:       2021-09-20
 author:     "Alberto"
+header-img: "img/pexels-gary-barnes.jpg"
 catalog:    true
 tags:
     - Presentación

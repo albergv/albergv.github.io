@@ -3,6 +3,7 @@ layout: post
 title: Contenido multimedia
 date:       2021-10-15
 author:     "Alberto"
+header-img: "img/pexels-scottwebb.jpg"
 catalog:    true
 tags:
     - Presentación

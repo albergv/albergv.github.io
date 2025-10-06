@@ -3,6 +3,7 @@ layout: post
 title: Publicación bilingüe
 date:       2025-10-05
 author:     "Alberto"
+header-img: "img/pexels-optical-chemist.jpg"
 catalog:    true
 multilingual: true
 tags:

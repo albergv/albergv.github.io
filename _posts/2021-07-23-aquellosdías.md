@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Sobre "Aquellos días fuera del nido"
-date:       2021-7-23
+date:       2021-07-23
 author:     "Alberto"
+header-img: "img/pexels-cup-of-couple.jpg"
 catalog:    true
 tags:
     - Aquellos días fuera del nido

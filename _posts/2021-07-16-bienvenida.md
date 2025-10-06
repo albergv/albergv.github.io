@@ -3,6 +3,7 @@ layout: post
 title: ¡Bienvenid@!
 date:       2021-07-16
 author:     "Alberto"
+header-img: "img/pexels-duygu-aci.jpg"
 catalog:    true
 tags:
     - Blog

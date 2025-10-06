@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Novedades día del libro"
-date: 2022-4-20
+date: 2022-04-20
 author: "Alberto"
+header-img: "img/pexels-vanyaoboleninov.jpg"
 tags:
       - Rebajas
       - Aquellos días fuera del nido

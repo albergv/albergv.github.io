@@ -3,7 +3,7 @@ layout: post
 title: Videojuego godot
 date:       2025-11-08
 author:     "Alberto"
-header-img: "img/pexels-optical-chemist.jpg"
+header-img: "img/pexels-introspectivedsgn.jpg.jpg"
 catalog:    true
 multilingual: true
 tags:
